@@ -160,6 +160,11 @@
               <packagesheader>ASK SDK for Java</packagesheader>
               <bottom><![CDATA[Copyright &#169; Amazon.com, Inc. or its affiliates. All Rights Reserved.]]></bottom>
             </configuration>
+            <dependency>
+              <groupId>com.amazon.alexa</groupId>
+              <artifactId>ask-sdk-core</artifactId>
+              <version>2.20.2</version>
+            </dependency>
           </plugin>
         </plugins>
       </build>
